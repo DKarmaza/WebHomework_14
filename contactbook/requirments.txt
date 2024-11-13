@@ -1,0 +1,12 @@
+fastapi
+sqlalchemy
+pydantic[email]
+psycopg2
+uvicorn
+python-jose[cryptography]
+passlib[bcrypt]
+alembic
+cloudinary
+fastapi-mail
+aioredis
+fastapi-limiter
